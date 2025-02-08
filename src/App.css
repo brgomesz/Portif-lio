@@ -1,0 +1,30 @@
+:root {
+    --primaria: rgb(90, 90, 212);
+}
+
+
+.icones-direita {
+    margin-left: auto; 
+  }
+
+  .icone{
+    margin-right: 50px; 
+    
+  }
+
+  .icone:hover{
+    color: var(--primaria); 
+  }
+  
+  .navbar{
+    height: 80px;
+    font-size: 25px;
+    font-weight:600;
+    color: var(--primaria); 
+  }
+
+  *{
+    font-family: Source Sans Pro;
+  }
+
+
