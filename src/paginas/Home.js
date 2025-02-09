@@ -19,7 +19,7 @@ function Home() {
       </div>
       <div className="div-sobre">
         <div className="conteudo-sobre">
-            <p>SOBRE</p>
+            <p></p>
         </div>
       </div>
     </div>
