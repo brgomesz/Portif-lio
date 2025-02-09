@@ -33,11 +33,11 @@
 
 .div-home {
   background-image: url("./imagens/hexagono-cinza.png");
-  height: 90vh;
+  height: 900px;
 }
 
 .div-sobre {
-  height: 130vh;
+  height: 1000px;
   background-color: rgb(226, 226, 226);
   display: flex;
 }
@@ -86,7 +86,7 @@
 
 .conteudo-sobre-interno {
   display: flex;
-  width: 90%;
+  width: 70%;
   align-content: start;
 }
 

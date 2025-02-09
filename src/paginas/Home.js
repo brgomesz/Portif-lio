@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Header from "../componentes/Header";
+import Footer from "../componentes/Footer"
 
 function Home() {
   return (
@@ -72,6 +73,7 @@ function Home() {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }
